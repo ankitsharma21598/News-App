@@ -37,7 +37,7 @@ git clone https://github.com/ankitsharma21598/THE-BHARAT-NEWS-Assignment.git
 
 2. Navigate to the project directory:
 ```
-cd news-website
+cd THE-BHARAT-NEWS-Assignment
 ```
 
 3. Install dependencies:
