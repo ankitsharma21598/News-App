@@ -46,7 +46,7 @@ const Navbar = () => {
                 <nav className="flex justify-between shadow-md text-white w-full">
                     <div className="px-5 xl:px-12 py-6 flex w-full justify-center  items-center">
                         {/* Brand/logo */}
-                        <a className="text-white text-2xl  font-semibold" >Triveous</a>
+                        <a className="text-white text-2xl  font-semibold" >News</a>
                         
                         {/* Main navigation links */}
                         <ul className="hidden md:flex justify-start w-[70%]  px-4 mx-auto font-semibold font-heading space-x-12">
