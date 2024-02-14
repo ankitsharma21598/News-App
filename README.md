@@ -31,7 +31,7 @@ To run the News Website locally, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-repo-url.git
+git clone https://github.com/ankitsharma21598/THE-BHARAT-NEWS-Assignment.git
 ```
 
 
